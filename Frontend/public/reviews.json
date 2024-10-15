@@ -1,0 +1,27 @@
+[
+    {
+        "user": "Catherine Lee",
+        "rating": 4,
+        "comment": "An exceptional class with detailed instructions. The instructor was very attentive to everyone's needs. Highly recommended!"
+    },
+    {
+        "user": "David Brown",
+        "rating": 2,
+        "comment": "The class was well-structured and engaging. I appreciated the focus on both physical and mental aspects of yoga."
+    },
+    {
+        "user": "Emily Davis",
+        "rating": 5,
+        "comment": "Absolutely fantastic! The instructor's energy and expertise made each session enjoyable and transformative. I look forward to every class!"
+    },
+    {
+        "user": "Frank Martin",
+        "rating": 4,
+        "comment": "Good class with clear instructions. However, I felt the pace was a bit too fast at times. Overall, a solid experience."
+    },
+    {
+        "user": "Grace Wilson",
+        "rating": 3,
+        "comment": "The best yoga class I've attended! The instructor's passion for yoga shines through, and the class environment is very welcoming."
+    }
+]

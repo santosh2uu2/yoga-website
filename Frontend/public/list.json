@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Sunrise Vinyasa Flow",
+    "title": "Energizing Morning Yoga",
+    "price": 50,
+    "category": "New",
+    "image": "https://images.healthshots.com/healthshots/en/uploads/2023/01/05140940/camel-pose-1024x576.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Deep Tissue Massage",
+    "title": "Rejuvenating Body Therapy",
+    "price": 120,
+    "category": "New",
+    "image":" https://photos.tpn.to/jq/nj/mh/ko/653x490.webp"
+  },
+  {
+    "id": 3,
+    "name": "Meditation and Breathwork",
+    "title": "Mindfulness and Relaxation",
+    "price": 40,
+    "category": "New",
+    "image":"https://photos.tpn.to/ll/of/pp/oj/653x490.webp"
+  },
+  {
+    "id": 4,
+    "name": "Restorative Yin Yoga",
+    "title": "Gentle Evening Practice",
+    "price": 45,
+    "category": "New",
+    "image":"https://photos.tpn.to/sj/oi/kh/ir/653x490.webp"
+  },
+  {
+    "id": 5,
+    "name": "Aromatherapy Session",
+    "title": "Healing Through Scent",
+    "price": 80,
+    "category": "New",
+    "image": "https://photos.tpn.to/ll/of/pp/oj/653x490.webp"
+  },  
+      {
+        "id": 6,
+        "name": "Hot Stone Therapy",
+        "title": "Soothing Heat Massage",
+        "price": 100,
+        "category": "New",
+        "image": "https://photos.tpn.to/og/jq/ls/fh/653x490.webp"
+      },
+      {
+        "id": 7,
+        "name": "Ayurvedic Consultation",
+        "title": "Personalized Health Assessment",
+        "price": 90,
+        "category": "New",
+        "image": "https://photos.tpn.to/qn/lf/ps/kr/653x490.webp"
+      },
+      {
+        "id": 8,
+        "name": "Ashtanga Yoga",
+        "title": "Dynamic Full-Body Workout",
+        "price": 60,
+        "category": "New",
+        "image": "https://photos.tpn.to/io/lh/mt/oj/653x490.webp"
+      },
+      {
+        "id": 9,
+        "name": "Sound Healing",
+        "title": "Vibrational Therapy Session",
+        "price": 70,
+        "category": "New",
+        "image": "https://photos.tpn.to/hi/jr/ho/rt/653x490.webp"
+      },
+      {
+        "id": 10,
+        "name": "Prenatal Yoga",
+        "title": "Gentle Practice for Expectant Mothers",
+        "price": 55,
+        "category": "New",
+        "image": "https://photos.tpn.to/hl/no/in/mj/653x490.webp"
+      }
+    ]
